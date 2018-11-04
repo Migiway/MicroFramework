@@ -1,0 +1,3 @@
+-> La BDD doit être créée manuellement
+-> Elle doit porter le nom 'framework'
+-> Il faut ensuite importer le fichier SQL à la racine du dossier
